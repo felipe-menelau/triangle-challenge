@@ -1,5 +1,5 @@
 # README #
-A simple triangle challenge solution. The solution was made in python3 but it also runs in python2
+A simple triangle challenge solution. For simplicity and brevity's sake, the solution was made in python3 but it also runs in python2
 
 By starting at the top of the triangle below and moving to adjacent numbers on the row below, the objective is to find the largest sum of numbers
 
