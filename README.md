@@ -5,7 +5,7 @@ By starting at the top of the triangle below and moving to adjacent numbers on t
 
 ## Running the solution ##
 
-Simple run
+Simply run
 
 ```
 python challenge/main.py
